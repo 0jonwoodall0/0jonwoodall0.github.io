@@ -47,3 +47,4 @@ bin-release/
 .Trashes
 ehthumbs.db
 Thumbs.db
+.idea/workspace.xml

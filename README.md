@@ -1,2 +1,2 @@
 # jonwoodall.com
-# Fast Web Design Help | Berlin
+# Fast & Affordable Website Development |-- Berlin --|
